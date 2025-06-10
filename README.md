@@ -70,9 +70,7 @@ vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@www.speedtest.net:443?sni=Ds807Ay6V
 hysteria2://dongtaiwang.com@51.159.111.32:31180?insecure=1&sni=apple.com#12%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
 ss://YWVzLTI1Ni1jZmI6YXdzcHMwNTAx@18.183.219.5:443#13%7Ctg%E9%A2%91%E9%81%93%3A%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNDUwY2VjZmI5M2Y=@121.127.231.217:41099#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
-ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8766#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MGE5MzBjMTdmZjA=@43.226.17.11:40990#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
-ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8774#13%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@5.39.249.146:443?allowInsecure=1&sni=0926.qiang2000.link&type=ws&host=0926.qiang2000.link&path=/TelegramU0001F1E8U0001F1F3@WangCai2/?ed=2560fp=chrome&security=tls#15%7CDE_speednode_0011
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@77.221.159.70:443?allowInsecure=0&sni=0926.qiang2000.link&type=ws&host=0926.qiang2000.link&path=/TelegramU0001F1E8U0001F1F3@WangCai2security=tls#15%7CFI_speednode_0012
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@217.179.91.152:34045?allowInsecure=0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&security=tls#15%7CGB_speednode_0015
@@ -84,6 +82,7 @@ vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@158.179.171.53:443?allowInsecure=1&
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@160.250.65.132:34045?allowInsecure=1&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&security=tls#15%7CNN_speednode_0026
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@146.235.19.79:28983?allowInsecure=1&sni=steep.skyfigure.top&type=ws&host=steep.skyfigure.top&path=/Telegram🇨🇳 @pgkj666 /?ed=2560security=tls#15%7CSG_speednode_0029
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@160.22.79.221:443?allowInsecure=1&sni=steep.skyfigure.top&type=ws&host=steep.skyfigure.top&path=/Telegram🇨🇳 @pgkj666 /?ed=2560security=tls#15%7CSG_speednode_0030
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@160.22.79.120:443?allowInsecure=1&sni=steep.skyfigure.top&type=ws&host=steep.skyfigure.top&path=/Telegram🇨🇳 @pgkj666 /?ed=2560security=tls#15%7CSG_speednode_0031
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@164.52.2.99:443?allowInsecure=0&sni=0926.qiang2000.link&type=ws&host=0926.qiang2000.link&path=/Telegram@WangCai2/?ed=2560fp=chrome&security=tls#15%7CSG_speednode_0032
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@108.162.195.20:8880?allowInsecure=0&sni=ip.langmanshanxi.top&type=ws&host=ip.langmanshanxi.top&path=/Telegram@WangCai2/?ed=2560#15%7CUS_speednode_0035
 vless://7cccefc2-6e9b-47bb-f30c-ea2d3cdc8593@speedtest.net:80?allowInsecure=1&sni=foffmelo.com&type=ws&host=foffmelo.com&path=/olem/ws?ed=1024#15%7CUS_speednode_0052
@@ -105,4 +104,4 @@ vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@103.12.77.78:34045?allowInsecure=0&
 * [clashnodedfree](https://github.com/asdsadsddas123/clashnodedfree)
 * [shadowsocksfree](https://github.com/asdsadsddas123/shadowsocksfree)
 * [fanqiang](https://github.com/asdsadsddas123/fanqiang)
-### 更新时间 2025-06-10 16:03:00 
+### 更新时间 2025-06-10 16:08:53 
